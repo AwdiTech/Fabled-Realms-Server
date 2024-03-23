@@ -4,7 +4,7 @@ import { protect } from '../../api/middlewares/authMiddleware.js';
 
 /**
  * Express router instance for handling game routes.
- * Routes include POST save and GET load.
+ * Router includes POST save and GET load routes.
  * @type {express.Router}
  */
 const router = express.Router();
