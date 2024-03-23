@@ -2,7 +2,6 @@
  * Schema for user data.
  * @module models/userModel
  * @requires mongoose
- * @requires bcrypt
  * @requires validator/lib/isEmail
  */
 
