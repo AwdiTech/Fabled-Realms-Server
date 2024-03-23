@@ -1,13 +1,12 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-import fs from 'fs';
 import User from "../models/userModel.js";
 import bcrypt from "bcrypt";
 import crypto from "crypto";
 import nodemailer from 'nodemailer';
 import { generateToken } from './../utils/jwtUtils.js';
 import Game from '../models/gameModel.js';
-import { ForbiddenError, NotFoundError, UnauthorizedError, ValidationError, ServerError } from './../errors/customErrors.js';
+import { NotFoundError, UnauthorizedError, ValidationError, ServerError } from './../errors/customErrors.js';
 import * as cfg from './../config/config.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
