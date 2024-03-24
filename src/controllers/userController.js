@@ -138,7 +138,7 @@ export const loginUser = async (req, res, next) => {
 
         // In your loginUser function
         if (!user.emailVerified) {
-            throw new UnauthorizedError('Please verify your email address to login');
+            throw new UnauthorizedError('Please verify your email address to login!');
         }
 
 

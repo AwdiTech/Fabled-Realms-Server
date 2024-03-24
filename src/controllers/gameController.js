@@ -43,17 +43,16 @@ export const saveGameData = async (req, res, next) => {
  * @param {Object} req - The request object containing the user ID.
  * @param {Object} res - The response object used to send back the game data.
  * @param {Function} next - The next middleware function in the stack, used for error handling.
- * @throws {Error} - If there is an error while retrieving the game data.
+ * @throws {NotFoundError} - If there is an error while retrieving the game data.
  */
 export const getGameData = async (req, res, next) => {
     const userId = req.user._id;
 
     try {
         const game = await Game.findOne({ user: userId });
-
-        if (!game) {
-            // Game data not found for the user
-            throw new NotFoundError("Game data not found");
+        
+        if (!game || !game.gameState){
+            return res.status(200).json({ message: "Game data not found for this user", result: 'failed'});
         }
 
         res.status(200).json(game.gameState);
