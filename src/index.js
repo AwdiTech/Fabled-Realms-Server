@@ -17,17 +17,16 @@ mongoose.connect(cfg.DB_URI);
 app.use(cors());
 app.use(express.json());
 
-// Adjusted to serve static files from the root's build folder
-app.use(express.static(path.join(__dirname, '..', 'build')));
-
 // Routes
 app.use('/api/game', gameRoutes);
 app.use('/api/user', userRoutes);
 
+// Adjusted to serve static files from the root's build folder
+app.use(express.static(path.join(__dirname, '..', 'build')));
+
 // The "catchall" handler, which sends back the built client app for any request that doesn't match a route
 app.get('*', (req, res) => {
     const indexPath = path.join(__dirname, '..', 'build', 'index.html');
-    console.log('Serving index.html from:', indexPath);
     res.sendFile(indexPath);
 });
 
