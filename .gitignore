@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # environment variables
 .env
 .env.local
