@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "postinstall": "npm rebuild bcrypt --build-from-source"
   },
   "author": "Awdi-Tech",
   "license": "ISC",
