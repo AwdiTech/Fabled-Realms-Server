@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1abdf197.css",
-    "main.js": "/static/js/main.8a565dde.js",
+    "main.js": "/static/js/main.dee66221.js",
     "static/js/453.b20145df.chunk.js": "/static/js/453.b20145df.chunk.js",
     "static/media/main-background.png": "/static/media/main-background.e042ac0aa02ae274ecb5.png",
     "static/media/tree-walls.png": "/static/media/tree-walls.471c75b2d6f179b049d2.png",
@@ -17,11 +17,11 @@
     "static/media/livestock_cattle-bull_A_v06.png": "/static/media/livestock_cattle-bull_A_v06.372eeef85fc32289ca74.png",
     "index.html": "/index.html",
     "main.1abdf197.css.map": "/static/css/main.1abdf197.css.map",
-    "main.8a565dde.js.map": "/static/js/main.8a565dde.js.map",
+    "main.dee66221.js.map": "/static/js/main.dee66221.js.map",
     "453.b20145df.chunk.js.map": "/static/js/453.b20145df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1abdf197.css",
-    "static/js/main.8a565dde.js"
+    "static/js/main.dee66221.js"
   ]
 }
