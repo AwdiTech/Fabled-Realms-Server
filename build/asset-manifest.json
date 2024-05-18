@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1abdf197.css",
-    "main.js": "/static/js/main.f8143bb0.js",
-    "static/js/453.b20145df.chunk.js": "/static/js/453.b20145df.chunk.js",
+    "main.css": "/static/css/main.9ab3cdc1.css",
+    "main.js": "/static/js/main.32f8aae0.js",
+    "static/js/206.50f27b58.chunk.js": "/static/js/206.50f27b58.chunk.js",
     "static/media/main-background.png": "/static/media/main-background.e042ac0aa02ae274ecb5.png",
     "static/media/tree-walls.png": "/static/media/tree-walls.471c75b2d6f179b049d2.png",
     "static/media/Player.png": "/static/media/Player.682352e3068629650bf9.png",
@@ -15,13 +15,10 @@
     "static/media/village_accessories_48x80.png": "/static/media/village_accessories_48x80.60974beb0f8ab5a1efaa.png",
     "static/media/slippery-slime-(eyeless)-v02.png": "/static/media/slippery-slime-(eyeless)-v02.e927e3959d933cb97369.png",
     "static/media/livestock_cattle-bull_A_v06.png": "/static/media/livestock_cattle-bull_A_v06.372eeef85fc32289ca74.png",
-    "index.html": "/index.html",
-    "main.1abdf197.css.map": "/static/css/main.1abdf197.css.map",
-    "main.f8143bb0.js.map": "/static/js/main.f8143bb0.js.map",
-    "453.b20145df.chunk.js.map": "/static/js/453.b20145df.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.1abdf197.css",
-    "static/js/main.f8143bb0.js"
+    "static/css/main.9ab3cdc1.css",
+    "static/js/main.32f8aae0.js"
   ]
 }
