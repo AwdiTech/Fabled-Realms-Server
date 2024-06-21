@@ -1,0 +1,71 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_0bas_humn_v01.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_0bas_humn_v01"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_1out_boxr_v01.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_1out_boxr_v01"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_4har_dap1_v03.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_4har_dap1_v03"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_6tla_sw01_v05.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_6tla_sw01_v05"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_7tlb_sh02_v04.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_7tlb_sh02_v04"
+            },
+            {
+                "url": "assets/animations/playerAnimations.json",
+                "type": "animation",
+                "key": "playerAnimations"
+            },
+            {
+                "url": "assets/entities/player/playerC-baseBody-physics-bodies.json",
+                "type": "json",
+                "key": "playerC-baseBody-physics-bodies"
+            },
+            {
+                "url": "assets/animations/playerCombatAnims.json",
+                "type": "animation",
+                "key": "playerCombatAnims"
+            },
+            {
+                "url": "assets/entities/PlayerSpritesheet.png",
+                "frameConfig": {
+                    "frameWidth": 64,
+                    "frameHeight": 64,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "PlayerSpritesheet"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

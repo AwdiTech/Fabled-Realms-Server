@@ -1,0 +1,164 @@
+{
+    "anims": [
+        {
+            "key": "player-idle-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "player-idle-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "player-idle-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 32,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "player-walk-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 48,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 49,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 50,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "player-walk-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 52,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 53,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 54,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "player-walk-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 64,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 65,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 66,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 67,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 68,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "PlayerSpritesheet",
+                    "frame": 69,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

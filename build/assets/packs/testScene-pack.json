@@ -1,0 +1,148 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/maps/testScene-tilesets/delicate-deer.png",
+                "type": "image",
+                "key": "delicate-deer"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/gentle-forest.png",
+                "type": "image",
+                "key": "gentle-forest"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/gentle-waterfall.png",
+                "type": "image",
+                "key": "gentle-waterfall"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/home-exteriors-thatch-roof-v3.png",
+                "type": "image",
+                "key": "home-exteriors-thatch-roof-v3"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/livestock_cattle-bull_A_v06.png",
+                "type": "image",
+                "key": "livestock_cattle-bull_A_v06"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/livestock_chick_v00.png",
+                "type": "image",
+                "key": "livestock_chick_v00"
+            },
+            {
+                "url": "assets/maps/LostOutpost.json",
+                "type": "tilemapTiledJSON",
+                "key": "LostOutpost"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/low-stone-wall-16x16.png",
+                "type": "image",
+                "key": "low-stone-wall-16x16"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/low-stone-wall-angles-32x32.png",
+                "type": "image",
+                "key": "low-stone-wall-angles-32x32"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/low-stone-wall-gate-64x48.png",
+                "type": "image",
+                "key": "low-stone-wall-gate-64x48"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/MapMarkers.jpg",
+                "type": "image",
+                "key": "MapMarkers"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/moody-mushroom-A-v01.png",
+                "type": "image",
+                "key": "moody-mushroom-A-v01"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/npc-bard-A-v03.png",
+                "type": "image",
+                "key": "npc-bard-A-v03"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/npc-merchant-C-v02.png",
+                "type": "image",
+                "key": "npc-merchant-C-v02"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/npc-mystic-A-v01.png",
+                "type": "image",
+                "key": "npc-mystic-A-v01"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/npc-old-man-B-v01.png",
+                "type": "image",
+                "key": "npc-old-man-B-v01"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/npc-woman-A-v04.png",
+                "type": "image",
+                "key": "npc-woman-A-v04"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/slippery-slime-(eyeless)-v02.png",
+                "type": "image",
+                "key": "slippery-slime-(eyeless)-v02"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/travelers-camp.png",
+                "type": "image",
+                "key": "travelers-camp"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/tree-walls.png",
+                "type": "image",
+                "key": "tree-walls"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_16x16.png",
+                "type": "image",
+                "key": "village_accessories_16x16"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_16x32.png",
+                "type": "image",
+                "key": "village_accessories_16x32"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_16x48.png",
+                "type": "image",
+                "key": "village_accessories_16x48"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_32x32.png",
+                "type": "image",
+                "key": "village_accessories_32x32"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_48x80.png",
+                "type": "image",
+                "key": "village_accessories_48x80"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/village_accessories_80x96.png",
+                "type": "image",
+                "key": "village_accessories_80x96"
+            },
+            {
+                "url": "assets/maps/testScene-tilesets/wayward-wasp-v07.png",
+                "type": "image",
+                "key": "wayward-wasp-v07"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
