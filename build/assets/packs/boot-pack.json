@@ -1,0 +1,110 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/ui/bootLogo/bootLogo.mp4"
+                ],
+                "type": "video",
+                "key": "bootLogo"
+            },
+            {
+                "url": "assets/fx/flameParticle.png",
+                "type": "image",
+                "key": "flameParticle"
+            },
+            {
+                "url": [
+                    "assets/music/gamesceneMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "gamesceneMusic"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid4.mp4"
+                ],
+                "type": "video",
+                "key": "introVid1"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid2.mp4"
+                ],
+                "type": "video",
+                "key": "introVid2"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid3.mp4"
+                ],
+                "type": "video",
+                "key": "introVid3"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid1.mp4"
+                ],
+                "type": "video",
+                "key": "introVid4"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid5.mp4"
+                ],
+                "type": "video",
+                "key": "introVid5"
+            },
+            {
+                "url": [
+                    "assets/ui/mainMenu/introVid6.mp4"
+                ],
+                "type": "video",
+                "key": "introVid6"
+            },
+            {
+                "url": "assets/ui/mainMenu/mainMenuButton.png",
+                "frameConfig": {
+                    "frameWidth": 291,
+                    "frameHeight": 64,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "mainMenuButton"
+            },
+            {
+                "url": "assets/ui/mainMenu/mainMenuHeader.png",
+                "type": "image",
+                "key": "mainMenuHeader"
+            },
+            {
+                "url": [
+                    "assets/music/menuMusic.ogg"
+                ],
+                "type": "audio",
+                "key": "menuMusic"
+            },
+            {
+                "textureURL": "assets/fonts/MS-fontTitle.png",
+                "fontDataURL": "assets/fonts/MS-fontTitle.xml",
+                "type": "bitmapFont",
+                "key": "MS-fontTitle"
+            },
+            {
+                "url": "assets/ui/mainMenu/titleHeader.png",
+                "type": "image",
+                "key": "titleHeader"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

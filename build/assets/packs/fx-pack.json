@@ -1,0 +1,88 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/fx/bloodDeathAnim.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bloodDeathSpritesheet"
+            },
+            {
+                "url": "assets/fx/bloodSlashSplash.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bloodSlashSplash"
+            },
+            {
+                "url": "assets/fx/bloodThrustSplash.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "bloodThrustSplash"
+            },
+            {
+                "url": "assets/animations/fx/enemyFX.json",
+                "type": "animation",
+                "key": "enemyFX"
+            },
+            {
+                "url": "assets/fx/playerBloodDeath.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "playerBloodDeath"
+            },
+            {
+                "url": "assets/animations/fx/playerFX.json",
+                "type": "animation",
+                "key": "playerFX"
+            },
+            {
+                "url": "assets/fx/playerHitBlood.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "playerHitBlood"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

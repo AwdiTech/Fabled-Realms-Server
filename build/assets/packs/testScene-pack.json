@@ -22,6 +22,22 @@
                 "key": "home-exteriors-thatch-roof-v3"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/entities/enemies/imp/impSword.json",
+                "path": "assets/entities/enemies/imp",
+                "key": "impSword"
+            },
+            {
+                "url": "assets/entities/enemies/impSword-physicsBodies.json",
+                "type": "json",
+                "key": "impSword-physicsBodies"
+            },
+            {
+                "url": "assets/animations/enemyAnimations/impSwordAnimations.json",
+                "type": "animation",
+                "key": "impSwordAnimations"
+            },
+            {
                 "url": "assets/maps/testScene-tilesets/livestock_cattle-bull_A_v06.png",
                 "type": "image",
                 "key": "livestock_cattle-bull_A_v06"

@@ -791,6 +791,90 @@
             "skipMissedFrames": true,
             "repeat": -1,
             "randomFrame": false
+        },
+        {
+            "key": "playerC-death-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 3,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "playerC-death-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 3,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "playerC-death-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-22.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-23.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 3,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "playerC-death-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-30.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "char_a_0bas_humn_v01",
+                    "frame": "char_a_0bas_humn_v01-31.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 3,
+            "skipMissedFrames": true,
+            "randomFrame": false
         }
     ],
     "globalTimeScale": 1,

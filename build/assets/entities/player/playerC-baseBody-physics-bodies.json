@@ -11,8 +11,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -40,8 +40,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -69,8 +69,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -99,8 +99,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -128,8 +128,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -157,8 +157,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -188,8 +188,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -217,8 +217,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -245,8 +245,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -274,8 +274,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -303,8 +303,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -330,8 +330,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -358,8 +358,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -386,8 +386,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -416,8 +416,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -446,8 +446,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -476,8 +476,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -504,8 +504,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -531,8 +531,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -559,8 +559,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -587,8 +587,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -615,8 +615,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -646,8 +646,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -675,8 +675,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -703,8 +703,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -733,8 +733,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -761,8 +761,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -789,8 +789,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -817,8 +817,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -845,8 +845,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -876,8 +876,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -905,8 +905,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -933,8 +933,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -960,8 +960,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -988,8 +988,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1015,8 +1015,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1042,8 +1042,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1070,8 +1070,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1099,8 +1099,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1128,8 +1128,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1156,8 +1156,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1183,8 +1183,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1212,8 +1212,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1241,8 +1241,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1268,8 +1268,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1296,8 +1296,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1324,8 +1324,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1352,8 +1352,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1382,8 +1382,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1410,8 +1410,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1437,8 +1437,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1463,8 +1463,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1491,8 +1491,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1520,8 +1520,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1550,8 +1550,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1578,8 +1578,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1604,8 +1604,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1632,8 +1632,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1658,8 +1658,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1685,8 +1685,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1712,8 +1712,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1741,8 +1741,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1771,8 +1771,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1799,8 +1799,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1825,8 +1825,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1854,8 +1854,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1882,8 +1882,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1910,8 +1910,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1939,8 +1939,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1965,8 +1965,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -1993,8 +1993,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2022,8 +2022,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2052,8 +2052,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2080,8 +2080,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2108,8 +2108,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2138,8 +2138,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2166,8 +2166,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2195,8 +2195,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2224,8 +2224,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2252,8 +2252,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2280,8 +2280,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2308,8 +2308,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2336,8 +2336,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2364,8 +2364,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2392,8 +2392,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2420,8 +2420,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2451,8 +2451,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2477,8 +2477,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2503,8 +2503,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2529,8 +2529,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2560,8 +2560,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2588,8 +2588,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2616,8 +2616,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2645,8 +2645,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2672,8 +2672,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2701,8 +2701,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2730,8 +2730,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2760,8 +2760,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2788,8 +2788,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2817,8 +2817,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2846,8 +2846,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2875,8 +2875,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2901,8 +2901,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2930,8 +2930,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2959,8 +2959,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -2989,8 +2989,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3017,8 +3017,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3045,8 +3045,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3073,8 +3073,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3103,8 +3103,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3130,8 +3130,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3159,8 +3159,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3188,8 +3188,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3216,8 +3216,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3245,8 +3245,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3274,8 +3274,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3303,8 +3303,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3330,8 +3330,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3359,8 +3359,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3387,8 +3387,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3415,8 +3415,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3443,8 +3443,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3471,8 +3471,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3501,8 +3501,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3531,8 +3531,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3560,8 +3560,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3588,8 +3588,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3617,8 +3617,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3646,8 +3646,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3673,8 +3673,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3701,8 +3701,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3731,8 +3731,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3761,8 +3761,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3789,8 +3789,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3818,8 +3818,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3847,8 +3847,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3876,8 +3876,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3903,8 +3903,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3931,8 +3931,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{
@@ -3961,8 +3961,8 @@
 		"frictionStatic": 0,
 		"collisionFilter": {
 			"group": 0,
-			"category": 1,
-			"mask": 6
+			"category": 20,
+			"mask": 8
 		},
 		"fixtures": [
 			{

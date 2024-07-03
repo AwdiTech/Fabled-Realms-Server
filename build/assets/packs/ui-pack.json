@@ -1,0 +1,102 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/ui/effects/alert-16.png",
+                "type": "image",
+                "key": "alert-16"
+            },
+            {
+                "url": "assets/ui/gameOver/GameDeathButtons.png",
+                "frameConfig": {
+                    "frameWidth": 478,
+                    "frameHeight": 141,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "GameDeathButtons"
+            },
+            {
+                "url": "assets/ui/HUD/bottomBar/hud-buttons.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "hud-buttons"
+            },
+            {
+                "url": "assets/ui/HUD/bottomBar/ui_bottom-bar.png",
+                "type": "image",
+                "key": "ui_bottom-bar"
+            },
+            {
+                "url": "assets/ui/HUD/bottomBar/ui_bottomIconBar.png",
+                "type": "image",
+                "key": "ui_bottomIconBar"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui_char-portrait.png",
+                "type": "image",
+                "key": "ui_char-portrait"
+            },
+            {
+                "url": "assets/ui/HUD/bottomBar/ui_hud-icons.png",
+                "frameConfig": {
+                    "frameWidth": 28,
+                    "frameHeight": 28,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "ui_hud-icons"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui_mc-portrait.png",
+                "type": "image",
+                "key": "ui_mc-portrait"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui_portrait-top-frame.png",
+                "type": "image",
+                "key": "ui_portrait-top-frame"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui-barLight.png",
+                "type": "image",
+                "key": "ui-barLight"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui-healthBar.png",
+                "type": "image",
+                "key": "ui-healthBar"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui-manaBar.png",
+                "type": "image",
+                "key": "ui-manaBar"
+            },
+            {
+                "url": "assets/ui/HUD/portrait/ui-staminaBar.png",
+                "type": "image",
+                "key": "ui-staminaBar"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -32,6 +32,20 @@
                 "key": "char_a_7tlb_sh02_v04"
             },
             {
+                "url": [
+                    "assets/ui/gameOver/gameOver2.mp4"
+                ],
+                "type": "video",
+                "key": "gameOverVid2"
+            },
+            {
+                "url": [
+                    "assets/ui/gameOver/gameOverVid.mp4"
+                ],
+                "type": "video",
+                "key": "gameOverVid1"
+            },
+            {
                 "url": "assets/animations/playerAnimations.json",
                 "type": "animation",
                 "key": "playerAnimations"

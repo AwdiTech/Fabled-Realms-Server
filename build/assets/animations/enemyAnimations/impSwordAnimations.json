@@ -1,0 +1,346 @@
+{
+    "anims": [
+        {
+            "key": "impSword-walk-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-0.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-3.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-walk-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-7.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-walk-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-9.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-walk-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-15.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 7,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-attack-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-18.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-19.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-attack-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-20.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-21.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-22.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-23.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-attack-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-24.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-25.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-26.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-27.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-attack-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-28.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-29.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-30.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-31.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-idle-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-0.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-idle-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-4.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-idle-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-8.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-idle-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
