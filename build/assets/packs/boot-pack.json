@@ -9,6 +9,13 @@
                 "key": "bootLogo"
             },
             {
+                "url": [
+                    "assets/soundFx/bootscene_sound.ogg"
+                ],
+                "type": "audio",
+                "key": "bootscene_sound"
+            },
+            {
                 "url": "assets/fx/flameParticle.png",
                 "type": "image",
                 "key": "flameParticle"
@@ -18,7 +25,7 @@
                     "assets/music/gamesceneMusic.mp3"
                 ],
                 "type": "audio",
-                "key": "gamesceneMusic"
+                "key": "gamescene_music"
             },
             {
                 "url": [
@@ -85,7 +92,7 @@
                     "assets/music/menuMusic.ogg"
                 ],
                 "type": "audio",
-                "key": "menuMusic"
+                "key": "menu_music"
             },
             {
                 "textureURL": "assets/fonts/MS-fontTitle.png",

@@ -41,9 +41,72 @@
                 "key": "bloodThrustSplash"
             },
             {
+                "url": [
+                    "assets/soundFx/button_click.wav"
+                ],
+                "type": "audio",
+                "key": "button_click"
+            },
+            {
+                "url": [
+                    "assets/soundFx/button_hover.wav"
+                ],
+                "type": "audio",
+                "key": "button_hover"
+            },
+            {
+                "url": [
+                    "assets/soundFx/enemy_attack.wav"
+                ],
+                "type": "audio",
+                "key": "enemy_attack"
+            },
+            {
+                "url": [
+                    "assets/soundFx/enemy_death.wav"
+                ],
+                "type": "audio",
+                "key": "enemy_death"
+            },
+            {
+                "url": [
+                    "assets/soundFx/enemy_hurt.wav"
+                ],
+                "type": "audio",
+                "key": "enemy_hurt"
+            },
+            {
                 "url": "assets/animations/fx/enemyFX.json",
                 "type": "animation",
                 "key": "enemyFX"
+            },
+            {
+                "url": [
+                    "assets/soundFx/gameover_music.mp3"
+                ],
+                "type": "audio",
+                "key": "gameover_music"
+            },
+            {
+                "url": [
+                    "assets/soundFx/player_death.wav"
+                ],
+                "type": "audio",
+                "key": "player_death"
+            },
+            {
+                "url": [
+                    "assets/soundFx/player_footsteps_grass.ogg"
+                ],
+                "type": "audio",
+                "key": "player_footsteps_grass"
+            },
+            {
+                "url": [
+                    "assets/soundFx/player_hurt.wav"
+                ],
+                "type": "audio",
+                "key": "player_hurt"
             },
             {
                 "url": "assets/fx/playerBloodDeath.png",
@@ -75,6 +138,20 @@
                 },
                 "type": "spritesheet",
                 "key": "playerHitBlood"
+            },
+            {
+                "url": [
+                    "assets/soundFx/sword_slash.wav"
+                ],
+                "type": "audio",
+                "key": "sword_slash"
+            },
+            {
+                "url": [
+                    "assets/soundFx/sword_thrust.wav"
+                ],
+                "type": "audio",
+                "key": "sword_thrust"
             }
         ]
     },
