@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8db2c6b7.css",
-    "main.js": "/static/js/main.25b40c99.js",
+    "main.css": "/static/css/main.510e6e68.css",
+    "main.js": "/static/js/main.7587150c.js",
     "static/js/206.50f27b58.chunk.js": "/static/js/206.50f27b58.chunk.js",
     "static/media/main-background.png": "/static/media/main-background.e042ac0aa02ae274ecb5.png",
+    "static/media/layer1.png": "/static/media/layer1.7e459234ecbc451bf6ad.png",
+    "static/media/layer6.png": "/static/media/layer6.f16dadec8c3f14f11dd2.png",
+    "static/media/layer4.png": "/static/media/layer4.8bcefc7defcb78b4846e.png",
+    "static/media/layer3.png": "/static/media/layer3.6214c9c5a53c0620906c.png",
+    "static/media/layer2.png": "/static/media/layer2.45ba981679765a6f00de.png",
+    "static/media/gamescene1.png": "/static/media/gamescene1.db64cb80aaaed7564df3.png",
+    "static/media/gamescene3.png": "/static/media/gamescene3.d66411665fe6d5a8ab32.png",
+    "static/media/gamescene2.png": "/static/media/gamescene2.27bd6b08a26ee88872f9.png",
+    "static/media/layer5.png": "/static/media/layer5.e7e9b32d5e077fc52b7b.png",
+    "static/media/darken_gradient.png": "/static/media/darken_gradient.9cbd5ae3e2376f601025.png",
     "static/media/DragonHunter.otf": "/static/media/DragonHunter.bfd266123930ca81297a.otf",
+    "static/media/ManaSeedTitle.ttf": "/static/media/ManaSeedTitle.dce59a2c557cf1a1d432.ttf",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.8db2c6b7.css",
-    "static/js/main.25b40c99.js"
+    "static/css/main.510e6e68.css",
+    "static/js/main.7587150c.js"
   ]
 }

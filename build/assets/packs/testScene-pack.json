@@ -7,6 +7,17 @@
                 "key": "delicate-deer"
             },
             {
+                "url": "assets/animations/enemyAnimations/enemyBullets.json",
+                "type": "animation",
+                "key": "enemyBullets"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/bullets/fireSlash.json",
+                "path": "assets/bullets",
+                "key": "fireSlash"
+            },
+            {
                 "url": "assets/maps/testScene-tilesets/gentle-forest.png",
                 "type": "image",
                 "key": "gentle-forest"

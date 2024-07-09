@@ -1,0 +1,137 @@
+{
+    "anims": [
+        {
+            "key": "fireSlashAnim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "fireSlash",
+                    "frame": "00.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "15.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "16.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "17.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "fireSlash",
+                    "frame": "18.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

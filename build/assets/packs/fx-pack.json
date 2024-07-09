@@ -55,6 +55,11 @@
                 "key": "button_hover"
             },
             {
+                "url": "assets/fx/darknessParticle.png",
+                "type": "image",
+                "key": "darknessParticle"
+            },
+            {
                 "url": [
                     "assets/soundFx/enemy_attack.wav"
                 ],
@@ -86,6 +91,11 @@
                 ],
                 "type": "audio",
                 "key": "gameover_music"
+            },
+            {
+                "url": "assets/fx/particle.png",
+                "type": "image",
+                "key": "particle"
             },
             {
                 "url": [

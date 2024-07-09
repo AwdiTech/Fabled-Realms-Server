@@ -7,6 +7,66 @@
                 "key": "alert-16"
             },
             {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar.png",
+                "type": "image",
+                "key": "enemy_health_bar"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_background.png",
+                "type": "image",
+                "key": "enemy_health_bar_background"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_background_big.png",
+                "type": "image",
+                "key": "enemy_health_bar_background_big"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_big.png",
+                "type": "image",
+                "key": "enemy_health_bar_big"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_black_frame.png",
+                "type": "image",
+                "key": "enemy_health_bar_black_frame"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_black_frame_big.png",
+                "type": "image",
+                "key": "enemy_health_bar_black_frame_big"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_gold_frame.png",
+                "type": "image",
+                "key": "enemy_health_bar_gold_frame"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_gold_frame_big.png",
+                "type": "image",
+                "key": "enemy_health_bar_gold_frame_big"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_silver_frame.png",
+                "type": "image",
+                "key": "enemy_health_bar_silver_frame"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_health_bar_silver_frame_big.png",
+                "type": "image",
+                "key": "enemy_health_bar_silver_frame_big"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_mana_bar.png",
+                "type": "image",
+                "key": "enemy_mana_bar"
+            },
+            {
+                "url": "assets/ui/HUD/enemy/enemy_mana_bar_big.png",
+                "type": "image",
+                "key": "enemy_mana_bar_big"
+            },
+            {
                 "url": "assets/ui/gameOver/GameDeathButtons.png",
                 "frameConfig": {
                     "frameWidth": 478,

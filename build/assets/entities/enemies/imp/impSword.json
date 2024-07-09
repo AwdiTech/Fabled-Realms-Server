@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 256,
-				"h": 416
+				"h": 624
 			},
 			"scale": 1,
 			"frames": [
@@ -680,6 +680,342 @@
 						"w": 35,
 						"h": 41
 					}
+				},
+				{
+					"filename": "impSword-32.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 43
+					},
+					"frame": {
+						"x": 0,
+						"y": 416,
+						"w": 50,
+						"h": 43
+					}
+				},
+				{
+					"filename": "impSword-33.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 49
+					},
+					"frame": {
+						"x": 64,
+						"y": 416,
+						"w": 64,
+						"h": 49
+					}
+				},
+				{
+					"filename": "impSword-34.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 49
+					},
+					"frame": {
+						"x": 128,
+						"y": 416,
+						"w": 64,
+						"h": 49
+					}
+				},
+				{
+					"filename": "impSword-35.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 49
+					},
+					"frame": {
+						"x": 192,
+						"y": 416,
+						"w": 64,
+						"h": 49
+					}
+				},
+				{
+					"filename": "impSword-36.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 41
+					},
+					"frame": {
+						"x": 0,
+						"y": 468,
+						"w": 52,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-37.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 51
+					},
+					"frame": {
+						"x": 64,
+						"y": 468,
+						"w": 64,
+						"h": 51
+					}
+				},
+				{
+					"filename": "impSword-38.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 51
+					},
+					"frame": {
+						"x": 128,
+						"y": 468,
+						"w": 64,
+						"h": 51
+					}
+				},
+				{
+					"filename": "impSword-39.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 40
+					},
+					"frame": {
+						"x": 192,
+						"y": 468,
+						"w": 60,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-40.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 47
+					},
+					"frame": {
+						"x": 0,
+						"y": 520,
+						"w": 26,
+						"h": 47
+					}
+				},
+				{
+					"filename": "impSword-41.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 40
+					},
+					"frame": {
+						"x": 64,
+						"y": 520,
+						"w": 47,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-42.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 40
+					},
+					"frame": {
+						"x": 128,
+						"y": 520,
+						"w": 50,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-43.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 192,
+						"y": 520,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-44.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 47
+					},
+					"frame": {
+						"x": 0,
+						"y": 572,
+						"w": 26,
+						"h": 47
+					}
+				},
+				{
+					"filename": "impSword-45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 40
+					},
+					"frame": {
+						"x": 64,
+						"y": 572,
+						"w": 47,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-46.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 40
+					},
+					"frame": {
+						"x": 128,
+						"y": 572,
+						"w": 50,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-47.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 192,
+						"y": 572,
+						"w": 40,
+						"h": 41
+					}
 				}
 			]
 		}
@@ -687,6 +1023,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:2b853b8d2a34880e9bfa8320f705bcc0:74e5a2647786b84193928225bc218de7:dcbdf5731969fed012888cd3ab523435$"
+		"smartupdate": "$TexturePacker:SmartUpdate:b1cb4e49e3ed3d65a548d21c5b911dfe:e670487d37d4b1a7677537ff9bcaad67:dcbdf5731969fed012888cd3ab523435$"
 	}
 }

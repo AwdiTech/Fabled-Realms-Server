@@ -331,6 +331,138 @@
             "skipMissedFrames": true,
             "repeat": -1,
             "randomFrame": false
+        },
+        {
+            "key": "impSword-slash-down",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-32.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-33.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-34.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-35.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-slash-up",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-36.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-37.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-38.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-39.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-slash-right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-40.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-41.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-42.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-43.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "impSword-slash-left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "impSword",
+                    "frame": "impSword-44.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-45.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-46.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "impSword",
+                    "frame": "impSword-47.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 20,
+            "skipMissedFrames": true,
+            "randomFrame": false
         }
     ],
     "globalTimeScale": 1,
