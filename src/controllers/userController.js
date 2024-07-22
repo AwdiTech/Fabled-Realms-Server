@@ -1,6 +1,7 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
 import User from "../models/userModel.js";
+import Subscriber from "../models/subscriberModel.js";
 import bcrypt from "bcrypt";
 import crypto from "crypto";
 import nodemailer from 'nodemailer';
@@ -191,6 +192,38 @@ export const getUserProfile = async (req, res, next) => {
             username: user.username,
             gameState: game.gameState, // Include the gameState from the fetched Game document
         });
+    } catch (error) {
+        next(error);
+    }
+};
+
+/**
+ * Subscribe an email to the mailing list.
+ *
+ * @param {Object} req - The request object containing the email to subscribe.
+ * @param {Object} res - The response object used to send back the subscription status.
+ * @param {Function} next - The next middleware function in the stack, used for error handling.
+ */
+export const subscribeEmail = async (req, res, next) => {
+    try {
+        const { email } = req.body;
+
+        // Check if email is valid
+        if (!email || !/\S+@\S+\.\S+/.test(email)) {
+            return res.status(400).json({ message: "Invalid email address" });
+        }
+
+        // Check if the email is already subscribed
+        const existingSubscriber = await Subscriber.findOne({ email });
+        if (existingSubscriber) {
+            return res.status(400).json({ message: "Email is already subscribed" });
+        }
+
+        // Create a new subscriber
+        const subscriber = new Subscriber({ email });
+        await subscriber.save();
+
+        res.status(201).json({ message: "Subscription successful" });
     } catch (error) {
         next(error);
     }

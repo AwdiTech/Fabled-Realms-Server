@@ -1,5 +1,5 @@
 import express from "express";
-import { registerUser, loginUser, getUserProfile, verifyEmail } from "../../controllers/userController.js";
+import { registerUser, loginUser, getUserProfile, verifyEmail, subscribeEmail } from "../../controllers/userController.js";
 import { protect } from '../../api/middlewares/authMiddleware.js';
 
 /**
@@ -22,6 +22,8 @@ router.get("/profile", protect, getUserProfile);
 
 // Verify email route
 router.get("/verify-email", verifyEmail);
+
+router.post("/subscribe", subscribeEmail)
 
 
 export default router;
