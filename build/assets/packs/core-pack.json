@@ -15,6 +15,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/entities/player/player-tp/char_a_1out_pfpn_v02.json",
+                "path": "assets/entities/player/player-tp",
+                "key": "char_a_1out_pfpn_v02"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/entities/player/player-tp/char_a_4har_dap1_v03.json",
                 "path": "assets/entities/player/player-tp",
                 "key": "char_a_4har_dap1_v03"
@@ -33,17 +39,17 @@
             },
             {
                 "url": [
-                    "assets/ui/gameOver/gameOver2.mp4"
-                ],
-                "type": "video",
-                "key": "gameOverVid2"
-            },
-            {
-                "url": [
                     "assets/ui/gameOver/gameOverVid.mp4"
                 ],
                 "type": "video",
                 "key": "gameOverVid1"
+            },
+            {
+                "url": [
+                    "assets/ui/gameOver/gameOver2.mp4"
+                ],
+                "type": "video",
+                "key": "gameOverVid2"
             },
             {
                 "url": "assets/animations/playerAnimations.json",
