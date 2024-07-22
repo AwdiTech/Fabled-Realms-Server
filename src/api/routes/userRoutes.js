@@ -23,6 +23,7 @@ router.get("/profile", protect, getUserProfile);
 // Verify email route
 router.get("/verify-email", verifyEmail);
 
+// Subscribe email route
 router.post("/subscribe", subscribeEmail)
 
 

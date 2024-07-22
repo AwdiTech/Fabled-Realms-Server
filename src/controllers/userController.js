@@ -216,7 +216,7 @@ export const subscribeEmail = async (req, res, next) => {
         // Check if the email is already subscribed
         const existingSubscriber = await Subscriber.findOne({ email });
         if (existingSubscriber) {
-            return res.status(400).json({ message: "Email is already subscribed" });
+            return res.status(409).json({ message: "Email is already subscribed" });
         }
 
         // Create a new subscriber
