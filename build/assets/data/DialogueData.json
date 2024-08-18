@@ -1,0 +1,159 @@
+{
+    "dialogues": {
+        "npc_0000": {
+            "intro": {
+                "text": "Welcome, traveler! What brings you to these lands?",
+                "emotion": "happy",
+                "type": "choice",
+                "choices": {
+                    "question": "What brings you to these lands?",
+                    "options": [
+                        {
+                            "text": "I'm just passing through.",
+                            "next": "quest_offer",
+                            "emotion": "neutral"
+                        },
+                        {
+                            "text": "I seek advice.",
+                            "next": "advice",
+                            "emotion": "curious"
+                        }
+                    ]
+                }
+            },
+            "advice": {
+                "text": "What wisdom do you seek?",
+                "emotion": "contemplative",
+                "type": "choice",
+                "choices": {
+                    "question": "What wisdom do you seek?",
+                    "options": [
+                        {
+                            "text": "Tell me about this place.",
+                            "next": "about_place",
+                            "emotion": "interested"
+                        },
+                        {
+                            "text": "What are those monsters around here?",
+                            "next": "about_monsters",
+                            "requirement": "trust_level_2",
+                            "emotion": "concerned"
+                        }
+                    ]
+                }
+            },
+            "about_place": {
+                "text": "This is a land of old, filled with mysteries and legends.",
+                "type": "dialogue",
+                "emotion": "proud",
+                "next": "quest_offer"
+            },
+            "about_monsters": {
+                "text": "Those are demonic imp creatures. They are a nuisance to the villagers.",
+                "emotion": "annoyed",
+                "type": "dialogue",
+                "next": "quest_offer"
+            },
+            "quest_offer": {
+                "text": "Before you go, there’s a matter that needs urgent attention. Demonic creatures are threatening our village. Can you help us?",
+                "emotion": "concerned",
+                "type": "action",
+                "action": {
+                    "type": "quest_offer",
+                    "timing": "after_dialogue",
+                    "questId": "quest0000",
+                    "accept_next": "accept_quest",
+                    "decline_next": "decline_quest"
+                }
+            },
+            "quest_repeat_offer": {
+                "text": "The village is still in danger. Will you help us?",
+                "emotion": "concerned",
+                "type": "action",
+                "action": {
+                    "type": "quest_offer",
+                    "timing": "after_dialogue",
+                    "questId": "quest0000",
+                    "accept_next": "accept_quest",
+                    "decline_next": "decline_quest"
+                }
+            },
+            "accept_quest": {
+                "text": "Thank you! The village is counting on you. Please return to me once you have completed the quest.",
+                "emotion": "grateful",
+                "type": "dialogue",
+                "effect": {
+                    "type": "change_interaction_state",
+                    "value": "quest_active"
+                },
+                "end": true
+            },
+            "decline_quest": {
+                "text": "I understand. You must be a coward. If you change your mind, the village will always welcome your help.",
+                "type": "dialogue",
+                "emotion": "disappointed",
+                "effect": {
+                    "type": "change_interaction_state",
+                    "value": "quest_repeat_offer"
+                },
+                "end": true
+            },
+            "quest_active": {
+                "text": "Have you rid us of the demonic creatures?",
+                "emotion": "anxious",
+                "type": "choice",
+                "choices": {
+                    "question": "What would you like to do?",
+                    "options": [
+                        {
+                            "text": "I need more time.",
+                            "next": "quest_incomplete",
+                            "emotion": "determined"
+                        },
+                        {
+                            "text": "I have slain the creatures.",
+                            "type": "action",
+                            "action": {
+                                "type": "return_quest",
+                                "timing": "after_dialogue",
+                                "questId": "quest0000",
+                                "complete_true": "complete_quest",
+                                "complete_false": "quest_incomplete"
+                            },
+                            "emotion": "proud"
+                        }
+                    ]
+                }
+            },
+            "quest_complete_false": {
+                "text": "You have only slain X of the Y creatures. The village is still in danger.",
+                "type": "dialogue",
+                "emotion": "disappointed",
+                "end": true
+            },
+            "quest_incomplete": {
+                "text": "Ah, you have not completed your task. Every moment counts. The safety of our village is in your hands.",
+                "type": "dialogue",
+                "emotion": "worried",
+                "end": true
+            },
+            "complete_quest": {
+                "text": "You have done it! The village is safe, thanks to you. Here is your reward.",
+                "emotion": "joyful",
+                "type": "dialogue",
+                "effect": {
+                    "type": "change_interaction_state",
+                    "value": "quest_complete"
+                },
+                "end": true
+            },
+            "quest_complete": {
+                "text": "You are an impressive warrior. The village is forever grateful for your bravery.",
+                "emotion": "grateful",
+                "type": "dialogue",
+                "end": true
+            }
+        }
+    }
+}
+

@@ -7,6 +7,11 @@
                 "key": "delicate-deer"
             },
             {
+                "url": "assets/data/DialogueData.json",
+                "type": "json",
+                "key": "DialogueData"
+            },
+            {
                 "url": "assets/animations/enemyAnimations/enemyBullets.json",
                 "type": "animation",
                 "key": "enemyBullets"
@@ -49,6 +54,11 @@
                 "key": "impSwordAnimations"
             },
             {
+                "url": "assets/data/InteractionStates.json",
+                "type": "json",
+                "key": "InteractionStates"
+            },
+            {
                 "url": "assets/maps/testScene-tilesets/livestock_cattle-bull_A_v06.png",
                 "type": "image",
                 "key": "livestock_cattle-bull_A_v06"
@@ -89,6 +99,19 @@
                 "key": "moody-mushroom-A-v01"
             },
             {
+                "url": "assets/entities/NPCs/npc old man A v02.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "npc old man A v02"
+            },
+            {
                 "url": "assets/maps/testScene-tilesets/npc-bard-A-v03.png",
                 "type": "image",
                 "key": "npc-bard-A-v03"
@@ -112,6 +135,11 @@
                 "url": "assets/maps/testScene-tilesets/npc-woman-A-v04.png",
                 "type": "image",
                 "key": "npc-woman-A-v04"
+            },
+            {
+                "url": "assets/data/QuestData.json",
+                "type": "json",
+                "key": "QuestData"
             },
             {
                 "url": "assets/maps/testScene-tilesets/slippery-slime-(eyeless)-v02.png",

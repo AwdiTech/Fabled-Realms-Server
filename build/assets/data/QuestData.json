@@ -1,0 +1,35 @@
+{
+    "quests": {
+        "quest0000": {
+            "title": "Vanquish the ImpSword Menace",
+            "description": "An old man in the village tells of demonic creatures from the Infernal Realm, known as ImpSword creatures, terrorizing the villagers. He pleads for your help to rid the village of this menace. Slay 5 of these creatures to make the village safe once more.",
+            "objectives": [
+                {
+                    "id": "slayImpSwords",
+                    "description": "Slay 5 ImpSword creatures found near the village outskirts.",
+                    "type": "defeat",
+                    "target": "ImpSword",
+                    "quantity": 5,
+                    "completionTrigger": {
+                        "type": "enemyDefeat",
+                        "details": {
+                            "enemyId": "ImpSword",
+                            "quantity": 5
+                        }
+                    }
+                }
+            ],
+            "rewards": {
+                "experience": 500,
+                "reputation": 10,
+                "gold": 100
+            },
+            "startConditions": [],
+            "completionConditions": {
+                "type": "objectivesComplete",
+                "returnToGiver": true,
+                "target": "npc_0000"
+            }
+        }
+    }
+}

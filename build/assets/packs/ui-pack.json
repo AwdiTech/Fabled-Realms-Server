@@ -7,6 +7,16 @@
                 "key": "alert-16"
             },
             {
+                "url": "assets/ui/HUD/dialogue/window_1.png",
+                "type": "image",
+                "key": "dialogue_window"
+            },
+            {
+                "url": "assets/ui/HUD/dialogue/window_1_title.png",
+                "type": "image",
+                "key": "dialogue_window_title"
+            },
+            {
                 "url": "assets/ui/HUD/enemy/enemy_health_bar.png",
                 "type": "image",
                 "key": "enemy_health_bar"
@@ -93,6 +103,59 @@
                 "key": "hud-buttons"
             },
             {
+                "url": "assets/ui/HUD/npc/InteractTooltip.png",
+                "type": "image",
+                "key": "InteractTooltip"
+            },
+            {
+                "url": "assets/ui/HUD/dialogue/Ardentryst-Arrowright.png",
+                "type": "image",
+                "key": "nextPageIcon"
+            },
+            {
+                "url": "assets/ui/HUD/dialogue/portraits/npc_000/Icons_13.png",
+                "type": "image",
+                "key": "npc_0000_portrait_neutral"
+            },
+            {
+                "url": "assets/ui/HUD/dialogue/portraits/Paper_Parchment_Background.jpg",
+                "type": "image",
+                "key": "Paper_Parchment_Background"
+            },
+            {
+                "url": "assets/ui/HUD/dialogue/portraits/player/Icons_17.png",
+                "type": "image",
+                "key": "player_portrait_neutral"
+            },
+            {
+                "url": "assets/ui/window/quest_background.png",
+                "type": "image",
+                "key": "quest_background"
+            },
+            {
+                "url": "assets/ui/window/quest_scroll_bar.png",
+                "type": "image",
+                "key": "quest_scroll_bar"
+            },
+            {
+                "url": "assets/ui/window/quest_scroll_bar_button.png",
+                "frameConfig": {
+                    "frameWidth": 16,
+                    "frameHeight": 16,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "quest_scroll_bar_button"
+            },
+            {
+                "url": "assets/ui/window/quest_scroll_thumb.png",
+                "type": "image",
+                "key": "quest_scroll_thumb"
+            },
+            {
                 "url": "assets/ui/HUD/bottomBar/ui_bottom-bar.png",
                 "type": "image",
                 "key": "ui_bottom-bar"
@@ -106,6 +169,11 @@
                 "url": "assets/ui/HUD/portrait/ui_char-portrait.png",
                 "type": "image",
                 "key": "ui_char-portrait"
+            },
+            {
+                "url": "assets/ui/window/UI_gray_button.png",
+                "type": "image",
+                "key": "UI_gray_button"
             },
             {
                 "url": "assets/ui/HUD/bottomBar/ui_hud-icons.png",
@@ -129,6 +197,31 @@
                 "url": "assets/ui/HUD/portrait/ui_portrait-top-frame.png",
                 "type": "image",
                 "key": "ui_portrait-top-frame"
+            },
+            {
+                "url": "assets/ui/window/UI_red_button.png",
+                "type": "image",
+                "key": "UI_red_button"
+            },
+            {
+                "url": "assets/ui/window/ui_window_frame.png",
+                "type": "image",
+                "key": "ui_window_frame"
+            },
+            {
+                "url": "assets/ui/window/ui_window_frame_top.png",
+                "type": "image",
+                "key": "ui_window_frame_top"
+            },
+            {
+                "url": "assets/ui/window/ui_window_frame_top_close.png",
+                "type": "image",
+                "key": "ui_window_frame_top_close"
+            },
+            {
+                "url": "assets/ui/window/ui_window_frame_top_moveButton.png",
+                "type": "image",
+                "key": "ui_window_frame_top_moveButton"
             },
             {
                 "url": "assets/ui/HUD/portrait/ui-barLight.png",

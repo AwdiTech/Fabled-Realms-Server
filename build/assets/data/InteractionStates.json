@@ -1,0 +1,20 @@
+{
+    "interactionStates": {
+        "npc_0000": {
+            "0": "intro",
+            "1": "quest_repeat_offer",
+            "2": "quest_active",
+            "3": "quest_complete"
+        },
+        "npc_001": {
+            "0": "intro",
+            "1": "passing",
+            "2": "advice"
+        },
+        "npc_002": {
+            "0": "greeting",
+            "1": "shop",
+            "2": "quests"
+        }
+    }
+}

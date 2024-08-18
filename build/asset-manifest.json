@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.510e6e68.css",
-    "main.js": "/static/js/main.af4a3599.js",
-    "static/js/206.50f27b58.chunk.js": "/static/js/206.50f27b58.chunk.js",
+    "main.js": "/static/js/main.c484a870.js",
+    "static/js/206.97ed272c.chunk.js": "/static/js/206.97ed272c.chunk.js",
     "static/media/main-background.png": "/static/media/main-background.e042ac0aa02ae274ecb5.png",
     "static/media/layer1.png": "/static/media/layer1.7e459234ecbc451bf6ad.png",
     "static/media/layer6.png": "/static/media/layer6.f16dadec8c3f14f11dd2.png",
@@ -15,11 +15,12 @@
     "static/media/layer5.png": "/static/media/layer5.e7e9b32d5e077fc52b7b.png",
     "static/media/darken_gradient.png": "/static/media/darken_gradient.9cbd5ae3e2376f601025.png",
     "static/media/DragonHunter.otf": "/static/media/DragonHunter.bfd266123930ca81297a.otf",
+    "static/media/index.cjs": "/static/media/index.1282334337c6cac7deca.cjs",
     "static/media/ManaSeedTitle.ttf": "/static/media/ManaSeedTitle.dce59a2c557cf1a1d432.ttf",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.510e6e68.css",
-    "static/js/main.af4a3599.js"
+    "static/js/main.c484a870.js"
   ]
 }

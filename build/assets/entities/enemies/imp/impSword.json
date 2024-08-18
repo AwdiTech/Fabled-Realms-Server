@@ -4,72 +4,429 @@
 			"image": "impSword.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 256,
-				"h": 624
+				"w": 398,
+				"h": 381
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "impSword-0.png",
+					"filename": "impSword-9.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 60,
-						"h": 47
+						"w": 27,
+						"h": 40
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 60,
-						"h": 47
+						"w": 27,
+						"h": 40
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 60,
-						"h": 47
+						"w": 27,
+						"h": 40
 					}
 				},
 				{
-					"filename": "impSword-1.png",
+					"filename": "impSword-13.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 64,
-						"h": 47
+						"w": 27,
+						"h": 40
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 64,
-						"h": 47
+						"w": 27,
+						"h": 40
 					},
 					"frame": {
-						"x": 64,
+						"x": 27,
 						"y": 0,
-						"w": 64,
-						"h": 47
+						"w": 27,
+						"h": 40
 					}
 				},
 				{
-					"filename": "impSword-2.png",
+					"filename": "impSword-24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 40
+					},
+					"frame": {
+						"x": 54,
+						"y": 0,
+						"w": 27,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-28.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 40
+					},
+					"frame": {
+						"x": 81,
+						"y": 0,
+						"w": 27,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 108,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 141,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 174,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 207,
+						"y": 0,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-27.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 240,
+						"y": 0,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-31.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 275,
+						"y": 0,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 310,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					},
+					"frame": {
+						"x": 352,
+						"y": 0,
+						"w": 42,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-26.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 40
+					},
+					"frame": {
+						"x": 0,
+						"y": 41,
+						"w": 43,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-30.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 40
+					},
+					"frame": {
+						"x": 43,
+						"y": 41,
+						"w": 43,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-25.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 40
+					},
+					"frame": {
+						"x": 86,
+						"y": 41,
+						"w": 47,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-29.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 40
+					},
+					"frame": {
+						"x": 133,
+						"y": 41,
+						"w": 47,
+						"h": 40
+					}
+				},
+				{
+					"filename": "impSword-20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 41
+					},
+					"frame": {
+						"x": 180,
+						"y": 41,
+						"w": 52,
+						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 44
+					},
+					"frame": {
+						"x": 232,
+						"y": 41,
+						"w": 50,
+						"h": 44
+					}
+				},
+				{
+					"filename": "impSword-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 42
+					},
+					"frame": {
+						"x": 282,
+						"y": 41,
+						"w": 56,
+						"h": 42
+					}
+				},
+				{
+					"filename": "impSword-23.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
 						"w": 60,
-						"h": 47
+						"h": 40
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
 						"w": 60,
-						"h": 47
+						"h": 40
 					},
 					"frame": {
-						"x": 128,
-						"y": 0,
+						"x": 338,
+						"y": 41,
 						"w": 60,
-						"h": 47
+						"h": 40
 					}
 				},
 				{
@@ -87,8 +444,8 @@
 						"h": 45
 					},
 					"frame": {
-						"x": 192,
-						"y": 0,
+						"x": 0,
+						"y": 85,
 						"w": 54,
 						"h": 45
 					}
@@ -108,31 +465,10 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 0,
-						"y": 52,
+						"x": 54,
+						"y": 85,
 						"w": 60,
 						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-5.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 42
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 42
-					},
-					"frame": {
-						"x": 64,
-						"y": 52,
-						"w": 56,
-						"h": 42
 					}
 				},
 				{
@@ -150,10 +486,52 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 128,
-						"y": 52,
+						"x": 114,
+						"y": 85,
 						"w": 60,
 						"h": 41
+					}
+				},
+				{
+					"filename": "impSword-40.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 59
+					},
+					"frame": {
+						"x": 174,
+						"y": 85,
+						"w": 42,
+						"h": 59
+					}
+				},
+				{
+					"filename": "impSword-44.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 59
+					},
+					"frame": {
+						"x": 216,
+						"y": 85,
+						"w": 42,
+						"h": 59
 					}
 				},
 				{
@@ -171,282 +549,9 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 192,
-						"y": 52,
+						"x": 258,
+						"y": 85,
 						"w": 64,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-8.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 33,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 33,
-						"h": 41
-					},
-					"frame": {
-						"x": 0,
-						"y": 104,
-						"w": 33,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-9.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 27,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 27,
-						"h": 40
-					},
-					"frame": {
-						"x": 64,
-						"y": 104,
-						"w": 27,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-10.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 33,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 33,
-						"h": 41
-					},
-					"frame": {
-						"x": 128,
-						"y": 104,
-						"w": 33,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-11.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 42,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 42,
-						"h": 40
-					},
-					"frame": {
-						"x": 192,
-						"y": 104,
-						"w": 42,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-12.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 33,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 33,
-						"h": 41
-					},
-					"frame": {
-						"x": 0,
-						"y": 156,
-						"w": 33,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-13.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 27,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 27,
-						"h": 40
-					},
-					"frame": {
-						"x": 64,
-						"y": 156,
-						"w": 27,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-14.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 33,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 33,
-						"h": 41
-					},
-					"frame": {
-						"x": 128,
-						"y": 156,
-						"w": 33,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-15.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 42,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 42,
-						"h": 40
-					},
-					"frame": {
-						"x": 192,
-						"y": 156,
-						"w": 42,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-16.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 50,
-						"h": 44
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 50,
-						"h": 44
-					},
-					"frame": {
-						"x": 0,
-						"y": 208,
-						"w": 50,
-						"h": 44
-					}
-				},
-				{
-					"filename": "impSword-17.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 52
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 52
-					},
-					"frame": {
-						"x": 64,
-						"y": 208,
-						"w": 64,
-						"h": 52
-					}
-				},
-				{
-					"filename": "impSword-18.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 52
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 52
-					},
-					"frame": {
-						"x": 128,
-						"y": 208,
-						"w": 64,
-						"h": 52
-					}
-				},
-				{
-					"filename": "impSword-19.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 60,
-						"h": 49
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 60,
-						"h": 49
-					},
-					"frame": {
-						"x": 192,
-						"y": 208,
-						"w": 60,
-						"h": 49
-					}
-				},
-				{
-					"filename": "impSword-20.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 41
-					},
-					"frame": {
-						"x": 0,
-						"y": 260,
-						"w": 52,
 						"h": 41
 					}
 				},
@@ -465,8 +570,8 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 64,
-						"y": 260,
+						"x": 322,
+						"y": 85,
 						"w": 64,
 						"h": 41
 					}
@@ -486,430 +591,136 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 128,
-						"y": 260,
+						"x": 0,
+						"y": 144,
 						"w": 64,
 						"h": 41
 					}
 				},
 				{
-					"filename": "impSword-23.png",
+					"filename": "impSword-0.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
 						"w": 60,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 60,
-						"h": 40
-					},
-					"frame": {
-						"x": 192,
-						"y": 260,
-						"w": 60,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-24.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 27,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 27,
-						"h": 40
-					},
-					"frame": {
-						"x": 0,
-						"y": 312,
-						"w": 27,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-25.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 47,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 47,
-						"h": 40
-					},
-					"frame": {
-						"x": 64,
-						"y": 312,
-						"w": 47,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-26.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 43,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 43,
-						"h": 40
-					},
-					"frame": {
-						"x": 128,
-						"y": 312,
-						"w": 43,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-27.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 35,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 35,
-						"h": 41
-					},
-					"frame": {
-						"x": 192,
-						"y": 312,
-						"w": 35,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-28.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 27,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 27,
-						"h": 40
-					},
-					"frame": {
-						"x": 0,
-						"y": 364,
-						"w": 27,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-29.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 47,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 47,
-						"h": 40
-					},
-					"frame": {
-						"x": 64,
-						"y": 364,
-						"w": 47,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-30.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 43,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 43,
-						"h": 40
-					},
-					"frame": {
-						"x": 128,
-						"y": 364,
-						"w": 43,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-31.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 35,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 35,
-						"h": 41
-					},
-					"frame": {
-						"x": 192,
-						"y": 364,
-						"w": 35,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-32.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 50,
-						"h": 43
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 50,
-						"h": 43
-					},
-					"frame": {
-						"x": 0,
-						"y": 416,
-						"w": 50,
-						"h": 43
-					}
-				},
-				{
-					"filename": "impSword-33.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 49
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 49
-					},
-					"frame": {
-						"x": 64,
-						"y": 416,
-						"w": 64,
-						"h": 49
-					}
-				},
-				{
-					"filename": "impSword-34.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 49
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 49
-					},
-					"frame": {
-						"x": 128,
-						"y": 416,
-						"w": 64,
-						"h": 49
-					}
-				},
-				{
-					"filename": "impSword-35.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 49
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 49
-					},
-					"frame": {
-						"x": 192,
-						"y": 416,
-						"w": 64,
-						"h": 49
-					}
-				},
-				{
-					"filename": "impSword-36.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 41
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 41
-					},
-					"frame": {
-						"x": 0,
-						"y": 468,
-						"w": 52,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-37.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 51
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 51
-					},
-					"frame": {
-						"x": 64,
-						"y": 468,
-						"w": 64,
-						"h": 51
-					}
-				},
-				{
-					"filename": "impSword-38.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 64,
-						"h": 51
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 64,
-						"h": 51
-					},
-					"frame": {
-						"x": 128,
-						"y": 468,
-						"w": 64,
-						"h": 51
-					}
-				},
-				{
-					"filename": "impSword-39.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 60,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 60,
-						"h": 40
-					},
-					"frame": {
-						"x": 192,
-						"y": 468,
-						"w": 60,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-40.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 26,
 						"h": 47
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 26,
+						"w": 60,
 						"h": 47
-					},
-					"frame": {
-						"x": 0,
-						"y": 520,
-						"w": 26,
-						"h": 47
-					}
-				},
-				{
-					"filename": "impSword-41.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 47,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 47,
-						"h": 40
 					},
 					"frame": {
 						"x": 64,
-						"y": 520,
-						"w": 47,
-						"h": 40
+						"y": 144,
+						"w": 60,
+						"h": 47
 					}
 				},
 				{
-					"filename": "impSword-42.png",
+					"filename": "impSword-2.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 50,
-						"h": 40
+						"w": 60,
+						"h": 47
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 50,
-						"h": 40
+						"w": 60,
+						"h": 47
 					},
 					"frame": {
-						"x": 128,
-						"y": 520,
-						"w": 50,
-						"h": 40
+						"x": 124,
+						"y": 144,
+						"w": 60,
+						"h": 47
+					}
+				},
+				{
+					"filename": "impSword-19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 60,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 49
+					},
+					"frame": {
+						"x": 184,
+						"y": 144,
+						"w": 60,
+						"h": 49
+					}
+				},
+				{
+					"filename": "impSword-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 47
+					},
+					"frame": {
+						"x": 244,
+						"y": 144,
+						"w": 64,
+						"h": 47
+					}
+				},
+				{
+					"filename": "impSword-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 50
+					},
+					"frame": {
+						"x": 308,
+						"y": 144,
+						"w": 64,
+						"h": 50
+					}
+				},
+				{
+					"filename": "impSword-17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 52
+					},
+					"frame": {
+						"x": 0,
+						"y": 194,
+						"w": 64,
+						"h": 52
 					}
 				},
 				{
@@ -917,83 +728,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 40,
-						"h": 41
+						"w": 57,
+						"h": 59
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 40,
-						"h": 41
-					},
-					"frame": {
-						"x": 192,
-						"y": 520,
-						"w": 40,
-						"h": 41
-					}
-				},
-				{
-					"filename": "impSword-44.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 26,
-						"h": 47
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 26,
-						"h": 47
-					},
-					"frame": {
-						"x": 0,
-						"y": 572,
-						"w": 26,
-						"h": 47
-					}
-				},
-				{
-					"filename": "impSword-45.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 47,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 47,
-						"h": 40
+						"w": 57,
+						"h": 59
 					},
 					"frame": {
 						"x": 64,
-						"y": 572,
-						"w": 47,
-						"h": 40
-					}
-				},
-				{
-					"filename": "impSword-46.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 50,
-						"h": 40
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 50,
-						"h": 40
-					},
-					"frame": {
-						"x": 128,
-						"y": 572,
-						"w": 50,
-						"h": 40
+						"y": 194,
+						"w": 57,
+						"h": 59
 					}
 				},
 				{
@@ -1001,20 +749,272 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 40,
-						"h": 41
+						"w": 57,
+						"h": 59
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 40,
-						"h": 41
+						"w": 57,
+						"h": 59
 					},
 					"frame": {
-						"x": 192,
-						"y": 572,
-						"w": 40,
-						"h": 41
+						"x": 121,
+						"y": 194,
+						"w": 57,
+						"h": 59
+					}
+				},
+				{
+					"filename": "impSword-41.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 58
+					},
+					"frame": {
+						"x": 178,
+						"y": 194,
+						"w": 61,
+						"h": 58
+					}
+				},
+				{
+					"filename": "impSword-45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 58
+					},
+					"frame": {
+						"x": 239,
+						"y": 194,
+						"w": 61,
+						"h": 58
+					}
+				},
+				{
+					"filename": "impSword-36.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 55
+					},
+					"frame": {
+						"x": 300,
+						"y": 194,
+						"w": 70,
+						"h": 55
+					}
+				},
+				{
+					"filename": "impSword-32.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 57
+					},
+					"frame": {
+						"x": 0,
+						"y": 253,
+						"w": 68,
+						"h": 57
+					}
+				},
+				{
+					"filename": "impSword-39.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 55
+					},
+					"frame": {
+						"x": 68,
+						"y": 253,
+						"w": 78,
+						"h": 55
+					}
+				},
+				{
+					"filename": "impSword-33.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 55
+					},
+					"frame": {
+						"x": 146,
+						"y": 253,
+						"w": 81,
+						"h": 55
+					}
+				},
+				{
+					"filename": "impSword-35.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 56
+					},
+					"frame": {
+						"x": 227,
+						"y": 253,
+						"w": 80,
+						"h": 56
+					}
+				},
+				{
+					"filename": "impSword-37.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 58
+					},
+					"frame": {
+						"x": 307,
+						"y": 253,
+						"w": 81,
+						"h": 58
+					}
+				},
+				{
+					"filename": "impSword-42.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 66
+					},
+					"frame": {
+						"x": 0,
+						"y": 311,
+						"w": 72,
+						"h": 66
+					}
+				},
+				{
+					"filename": "impSword-46.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 66
+					},
+					"frame": {
+						"x": 72,
+						"y": 311,
+						"w": 72,
+						"h": 66
+					}
+				},
+				{
+					"filename": "impSword-34.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 70
+					},
+					"frame": {
+						"x": 144,
+						"y": 311,
+						"w": 86,
+						"h": 70
+					}
+				},
+				{
+					"filename": "impSword-38.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 70
+					},
+					"frame": {
+						"x": 230,
+						"y": 311,
+						"w": 88,
+						"h": 70
 					}
 				}
 			]
@@ -1023,6 +1023,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:b1cb4e49e3ed3d65a548d21c5b911dfe:e670487d37d4b1a7677537ff9bcaad67:dcbdf5731969fed012888cd3ab523435$"
+		"smartupdate": "$TexturePacker:SmartUpdate:b0e59d7147b16c4174eda1dfcc8de796:48e6293bcb0ead65c257b492f82bbc82:dcbdf5731969fed012888cd3ab523435$"
 	}
 }
