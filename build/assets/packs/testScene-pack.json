@@ -137,11 +137,6 @@
                 "key": "npc-woman-A-v04"
             },
             {
-                "url": "assets/data/QuestData.json",
-                "type": "json",
-                "key": "QuestData"
-            },
-            {
                 "url": "assets/maps/testScene-tilesets/slippery-slime-(eyeless)-v02.png",
                 "type": "image",
                 "key": "slippery-slime-(eyeless)-v02"

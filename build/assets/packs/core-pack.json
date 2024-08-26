@@ -78,6 +78,11 @@
                 },
                 "type": "spritesheet",
                 "key": "PlayerSpritesheet"
+            },
+            {
+                "url": "assets/data/QuestData.json",
+                "type": "json",
+                "key": "QuestData"
             }
         ]
     },
