@@ -1,6 +1,6 @@
 # Fabled Realms Prototype - Server
 
-![BrainFlix Interface](https://imgur.com/a/qImujqD)
+![Fabled-Realms-Gameplay_SC](https://imgur.com/a/qImujqD)
 
 Welcome to the server repository for the prototype of **Fabled Realms**, an online Pixel-Art Open-World RPG game that combines fast-paced action gameplay with immersive open world storytelling. This repository contains the backend code necessary to handle everything from user authentication to game state management.
 
